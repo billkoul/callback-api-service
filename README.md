@@ -1,6 +1,7 @@
 <h3>Play around with Node</h3>
 
-<u>Simple Callback API service</u><br>
+
+<b>1. Simple Callback API service</b><br>
 
 This is an API service running on Node.
 The service is running on port 3000.
