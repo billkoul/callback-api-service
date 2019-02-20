@@ -28,5 +28,5 @@ app.post('/', function (req, res) {
 });
 
 app.listen(3000, function () {
-  console.log('DLR service listening on port 3000!')
+  console.log('Service listening on port 3000!')
 })
